@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "what3words-link",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "Insert and format what3words links into your Obsidian notes.",
 	"main": "main.js",
 	"type": "module",
 	"scripts": {
